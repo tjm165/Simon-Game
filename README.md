@@ -1,6 +1,6 @@
 # Simon-Game
-This is a couple of "Simon Says" type games that I made for fun during my senior year.
-Note that I did not take a formal programming course while creating this. Therefore, I used poor object oriented coding.
+Here are some implementations of the "Simon Says" games that I made in high school.
+This demonstrates my programming knowledge before taking any formal classes. Everything I wrote was the product of teaching myself
 
 There are 2 implementations to this game.
 1. In the regular Simon game, the goal is to copy the sequence exactly as the computer displays it.
